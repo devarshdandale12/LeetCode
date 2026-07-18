@@ -19,4 +19,12 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/devarshdandale12/LeetCode/tree/master/0027-remove-element) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/devarshdandale12/LeetCode/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/devarshdandale12/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
