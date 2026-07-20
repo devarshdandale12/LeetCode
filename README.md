@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/devarshdandale12/LeetCode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/devarshdandale12/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/devarshdandale12/LeetCode/tree/master/0704-binary-search) |
+| [2460-apply-operations-to-an-array](https://github.com/devarshdandale12/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/devarshdandale12/LeetCode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/devarshdandale12/LeetCode/tree/master/0283-move-zeroes) |
+| [2460-apply-operations-to-an-array](https://github.com/devarshdandale12/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -29,4 +31,8 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/devarshdandale12/LeetCode/tree/master/0203-remove-linked-list-elements) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/devarshdandale12/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
