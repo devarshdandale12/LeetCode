@@ -35,4 +35,8 @@
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/devarshdandale12/LeetCode/tree/master/2460-apply-operations-to-an-array) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/devarshdandale12/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
